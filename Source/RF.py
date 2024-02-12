@@ -39,7 +39,7 @@ seed = 9
 np.random.seed(seed)
 
 # load datasets
-input_file = r"C:\Users\Effie\Projects\Random Forest\input.csv"
+input_file = r"C:\Users\....\Random Forest\input.csv"
 
 dataset = pd.read_csv(input_file)
 
